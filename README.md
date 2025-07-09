@@ -1,19 +1,4 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+# My second react project
+Using API's to claude to generate recipes based on user input
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
-
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
-
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
-
-Happy Coding!
+<img width="575" alt="image" src="https://github.com/user-attachments/assets/7b8dd2bc-4d52-47c2-ac68-f5c13c83c2a3" />
